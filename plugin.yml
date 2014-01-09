@@ -1,0 +1,14 @@
+name: CCElevator
+main: com.github.lyokofirelyte.CCElevator.CCElevator
+author: lyokofirelyte
+prefix: CCElevator-DEV
+version: 1
+
+commands:
+   elevator:
+      description: CCE dev command
+      usage: /elevator
+permissions:
+    cce.use:
+        description: CCE dev perm
+        default: op
